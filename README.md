@@ -24,13 +24,58 @@ ______
 
 ## Hands-On Storytelling with Tableau:
 
-* Financial Perspective
-* Customer Perspective
-* Process Perspective
-* HRD & Innovation Perspective
-* By Business Goals
-* By Department
-* By Industry
+* Financial Perspective:
+  * Cash Flow
+  * Ratio
+  * Burn Rate (time)
+  * Sales
+  * Net Profit
+  * Capital
+  * Turnover (BEP)
+  * Variance
+
+* Customer Perspective:
+  * Customer Satisfaction Score
+  * Net Promoter Score
+  * First Response Time
+  * Customer Retention Rate
+
+* Process Perspective:
+  * Cost performance index
+  * Schedule Performance Index
+
+ 
+  
+* HRD & Innovation Perspective:
+  * Retention
+  * Time in the Position
+  * Recruitment Time
+  * Time to Achieve Goals
+  * Accident at Work
+
+  
+* By Business Goals:
+  * Improve response time
+  * Increase profit margins
+  * Optimize campaigns
+
+* By Department:
+  * Sales
+  * Marketing
+  * Finance
+  * HRD
+  * IT
+  * Customer Services
+
+  
+* By Industry:
+  * Transport & Logistic
+  * Retails 
+  * Finance & Insurance
+  * Construction
+  * IT Industry
+  * Manufacturing
+
 
 
 

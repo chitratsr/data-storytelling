@@ -15,8 +15,8 @@ ______
 
 
 ## Essentials Data Storytelling:
-  * [10 rules of Edward Tufte’s]()
-  * [The seven types of data stories]()
+  * [10 rules of Edward Tufte’s](https://docs.google.com/presentation/d/1LmitKwdj9YJ6TpgkMKoinuTkjz1-A1KIYTw87UXgTIY/edit?usp=sharing)
+  * [The seven types of data stories](https://help.tableau.com/current/pro/desktop/en-us/story_best_practices.htm)
 
 
 

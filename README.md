@@ -13,9 +13,8 @@
 
 ______
 
-## Introduction to Data Visualization:
 
-* Essentials Data Storytelling:
+## Essentials Data Storytelling:
   * [10 rules of Edward Tufte’s]()
   * [The seven types of data stories]()
 

@@ -11,8 +11,9 @@
 
 <span>🖱️</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
 
-
 <span>📘</span>[Curriculum Planning](https://github.com/itsmecevi/slide-data-storytelling-draft)
+
+<span>🧗</span>[Pretest-Data Storytelling]()
 
 
 ______

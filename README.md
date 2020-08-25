@@ -19,15 +19,17 @@
 ______
 
 
-### Essentials Data Storytelling:
+### Essentials Data Storytelling-Asyn:
+  * [What is data storytelling-Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
   * [10 rules of Edward Tufte’s](https://docs.google.com/presentation/d/1LmitKwdj9YJ6TpgkMKoinuTkjz1-A1KIYTw87UXgTIY/edit?usp=sharing)
   * [The seven types of data stories](https://help.tableau.com/current/pro/desktop/en-us/story_best_practices.htm)
+  * [Tableau: The Evolution of Data Storytelling Whitepaper](https://narrativescience.com/wp-content/uploads/2018/12/Whitepaper_Tableau_The-Evolution-of-Data-Storytelling.pdf)
+ 
 
 
+### [Tutorials How to Data Storytelling with Tableau-Async](https://trello.com/c/7MSdbWmD/505-inovasi-dan-teknologi-baru-si-tableau)
 
-### [Tutorials How to Data Storytelling with Tableau](https://trello.com/c/7MSdbWmD/505-inovasi-dan-teknologi-baru-si-tableau)
-
-### Hands-On Storytelling with Tableau: [Thesis](https://github.com/itsmecevi/thesis-msc-cevi/blob/master/Thesis.pdf)
+### Hands-On Storytelling with Tableau-Sync: [Thesis](https://github.com/itsmecevi/thesis-msc-cevi/blob/master/Thesis.pdf)
 
 * Financial Perspective:
   * Cash Flow
@@ -85,7 +87,7 @@ ______
 
 
 
-## Use Case
+## Final Project
 
 * Health: 
 

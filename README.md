@@ -7,9 +7,13 @@
 
 <span>&#128201;</span> [Technical Spesifications](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
-<span>&#xf108;</span> [Install Tableau free 14-day trial](https://www.tableau.com/en-gb/products/trial)
+<span>💻</span> [Install Tableau free 14-day trial](https://www.tableau.com/en-gb/products/trial)
 
-<span>&#xf108;</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
+<span>🖱️</span> [Sign up Tableau Public account](https://public.tableau.com/s/)
+
+
+<span>📘</span>[Curriculum Planning](https://github.com/itsmecevi/slide-data-storytelling-draft)
+
 
 ______
 

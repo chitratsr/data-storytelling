@@ -20,6 +20,8 @@ ______
 
 
 ### Essentials Data Storytelling-Asyn:
+  * [Data Storytelling Example-Use Case Medigo](https://public.tableau.com/profile/cevi.herdian#!/vizhome/Visualization-Insight-Medigo/InquiryStatus)
+  * [Tableau Public Gallery Example](https://public.tableau.com/de-de/gallery/?tab=viz-of-the-day&type=viz-of-the-day)
   * [What is data storytelling-Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
   * [10 rules of Edward Tufte’s](https://docs.google.com/presentation/d/1LmitKwdj9YJ6TpgkMKoinuTkjz1-A1KIYTw87UXgTIY/edit?usp=sharing)
   * [The seven types of data stories](https://help.tableau.com/current/pro/desktop/en-us/story_best_practices.htm)

@@ -94,7 +94,10 @@ ______
 * Retail:
     * [Superstore](https://github.com/itsmecevi/global-superstore-new/blob/master/Global%20Superstore.xls)
     
-    
+* [Kaggle](https://www.kaggle.com/)
+
+
+* [Google](google)
     
     
 ## Extras

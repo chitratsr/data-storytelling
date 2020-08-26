@@ -13,7 +13,7 @@
 
 <span>📘</span>[Curriculum Planning](https://github.com/itsmecevi/slide-data-storytelling-draft)
 
-<span>🧗</span>[Pretest-Data Storytelling]()
+<span>🧗</span>[Pretest-Data Storytelling](https://itsmecevi.github.io/pretest-data-storytelling/)
 
 
 ______
